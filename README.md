@@ -1,3 +1,5 @@
 # tab-cutter
 
-Chrome extensions for divides one window into two
+## 概要
+
+現在のタブから右側のタブを新しいウインドウで開く Chrome 拡張機能です。
