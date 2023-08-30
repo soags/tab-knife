@@ -1,5 +1,9 @@
 # tab-cutter
 
-## 概要
+[Chrome Web Store (Under store review)](./)
 
-現在のタブから右側のタブを新しいウインドウで開く Chrome 拡張機能です。
+This simple tab organization tool divides one window into two.
+
+If you have at least two tabs in the selected Chrome window, all the tabs on the left side of the selected tab will stay in the window, and the rest will move to the new window.
+
+If you are looking for Tab Scissors, have a try.
