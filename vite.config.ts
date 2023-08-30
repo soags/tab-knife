@@ -31,7 +31,7 @@ const manifest = defineManifest({
     service_worker: 'src/background.ts',
     type: 'module',
   },
-  permissions: ['tabs'],
+  permissions: [],
 })
 
 export default defineConfig({
