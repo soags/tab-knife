@@ -1,6 +1,6 @@
-# tab-cutter
+# Tab Cutter
 
-[Chrome Web Store (Under store review)](./)
+[Chrome Web Store](https://chrome.google.com/webstore/detail/tab-cutter/mekmindbhhjinkmgdjabpgfkaekhmgkj)
 
 This simple tab organization tool divides one window into two.
 
